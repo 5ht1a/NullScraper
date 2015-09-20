@@ -1,5 +1,7 @@
 # +++++++++++++++WebScraper -python+++++++++++++++
 # Basic Web Scraper Made In Python
+# I AM NEW TO PYTHON, SO KEEP THAT IN-MIND
+# constructive crticism is encouraged
 # Feel free to use this code, but give credit to NULLBOT plz
 #EDIT-1.03= Now with color
 
